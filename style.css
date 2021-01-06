@@ -1,0 +1,112 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+span{
+    color: rgb(240, 85, 58);
+}
+h1{
+    font-size:50px;
+    color: rgb(19, 17, 49);
+    font: bolder;
+}
+p{
+    font-size:20px;
+    color:rgb(110, 110, 110);
+}
+.first-sec{
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.div1st{
+    width: 40%;
+    float: left;
+    
+}
+img{
+    width: 600px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+.link-button{
+    background-image: linear-gradient(tomato, lightsalmon);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    padding: 20px 30px;
+    
+    
+}
+.secend-div{
+    margin-left: 50px;
+}
+.third-sec{
+    border: 1px solid rgb(221, 0, 0);
+}
+#divto{
+    margin-left: 250px;
+    margin-top: 120px;
+}
+#center{
+    text-align: center;
+}
+.last-box{
+    width: 20%;
+    float: left;
+    margin-left: 80px;
+    box-shadow:40px gray;
+    
+}
+section{
+    clear: both;
+    margin-top: 10px;
+}
+#iq{
+    box-shadow: black;
+    margin-top: 500px;
+   
+    text-align: center;
+    background-image: url(shapes/lastbg.png);
+    background-repeat: no-repeat;
+    background-image: image-set(center);
+}
+.last-box img{
+    width:90%;
+}
+.last-box text{
+    margin-left: 80px;
+    width: 100%;
+}
+#box-{
+    box-shadow:40px gray;
+}
+#last-link{
+    margin-left:250px;
+    
+}
+.link-button2{
+    background-image: linear-gradient(tomato, lightsalmon);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+#h4cilor{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+.foter{
+    float: left;
+    margin: 1px;
+}
+.foter img{
+    width: 15%;
+
+    
+}
