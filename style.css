@@ -63,8 +63,12 @@ section{
     margin-top: 10px;
 }
 #iq{
-    box-shadow: black;
     margin-top: 500px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding:20px 100px;
+    border-radius: 5px;
+
    
     text-align: center;
     background-image: url(shapes/lastbg.png);
@@ -104,9 +108,10 @@ footer{
 .foter{
     float: left;
     margin: 1px;
+    text-align: center;
 }
 .foter img{
-    width: 15%;
+    width: 5%;
 
     
 }
