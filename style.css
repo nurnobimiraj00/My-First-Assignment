@@ -34,9 +34,10 @@ p{
     border-radius: 5px;
     padding: 10px 20px;
     font-weight: bold;
-    padding: 20px 30px;
-    
-    
+    padding: 20px 30px; 
+}
+.link-button:hover{
+    background-image: linear-gradient(green, tomato);
 }
 .secend-div{
     margin-left: 50px;
@@ -93,16 +94,8 @@ section{
     margin-left:250px;
     
 }
-.link-button2{
-    background-image: linear-gradient(tomato, lightsalmon);
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    padding: 10px 20px;
-    font-weight: bold;
-    padding: 10px 20px;
-    margin-top: 10px;
-}
+
+.link-butto
 #h4cilor{
     color: gray;
 }
